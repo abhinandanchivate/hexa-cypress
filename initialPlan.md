@@ -187,5 +187,11 @@ jobs:
 * Docker container for Cypress execution
 
 ---
+## 🔹 Next Steps
+
+* Export Excel matrix for test scenario coverage
+* Package project as ZIP/GitHub repo for delivery
+* Generate a stakeholder-facing proposal deck (PPT/PDF)
+* Schedule live demo for client QA/Dev teams
 
 
